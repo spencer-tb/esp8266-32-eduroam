@@ -2,9 +2,9 @@
 #include "esp_wpa2.h"
 
 #define SSID "eduroam"
-#define WPA2_USERNAME "s1536049@ed.ac.uk"
+#define WPA2_USERNAME "username@ed.ac.uk"
 #define WPA2_IDENTITY WPA2_USERNAME
-#define WPA2_PASSWORD "XEWDJRQ71"
+#define WPA2_PASSWORD "password"
 
 int counter = 0;
 
